@@ -19,6 +19,13 @@ const songs = [
         cover: 'img1.jpg',
         artist: 'Persona 3 Reload',
     },
+
+    {
+        path: 'soundtrack2.mp3',
+        displayName: 'Color your night',
+        cover: 'img2.jpg',
+        artist: 'Persona 3 Reload',
+    },
     
 ];
 
